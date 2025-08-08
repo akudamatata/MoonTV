@@ -88,8 +88,19 @@
   }
     "custom_category": [
     {
+      "name": "豆瓣高分",
+      "type": "movie",
+      "query": "豆瓣高分"
+    }，
+    {
+      "name": "冷门佳片",
+      "type": "movie",
+      "query": "冷门佳片"
+    }，      
+    {
       "name": "日本动画",
       "type": "tv",
       "query": "日本动画"
-    }
+    }  
+  ]
 }
