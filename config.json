@@ -91,6 +91,21 @@
       "name": "豆瓣高分",
       "type": "movie",
       "query": "豆瓣高分"
+    },
+    {
+      "name": "冷门佳片",
+      "type": "movie",
+      "query": "冷门佳片"
+    },
+    {
+      "name": "热门剧集",
+      "type": "tv",
+      "query": "热门"
+    },
+    {
+      "name": "日漫",
+      "type": "tv",
+      "query": "日本动画"
     }
   ]
 }
